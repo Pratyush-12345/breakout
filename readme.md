@@ -25,7 +25,7 @@ The project consists of the following files:
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/Pratyush-12345/Breakout_webscrapping.git 
+git clone https://github.com/Pratyush-12345/breakout.git
 
 
 2. Install the required Python packages:
